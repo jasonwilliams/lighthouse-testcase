@@ -1,0 +1,11 @@
+{
+  "name": "lighthouse-testcase",
+  "version": "1.0.0",
+  "description": "This is a testcase to showcase Lighthouse not talking to google chrome",
+  "main": "index.js",
+  "author": "Jason Williams <jason.williams01@bbc.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+  	"lighthouse": "^2.5.0"
+  }
+}
